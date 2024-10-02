@@ -6,6 +6,5 @@ medical_queries_responses = {
     "What can frequent urination and excessive thirst mean": "These are common signs of diabetes mellitus. A blood glucose test is essential to confirm the diagnosis.",
     "Why do I have persistent fatigue despite adequate sleep": "Possible causes include anemia, thyroid disorders, depression, or chronic fatigue syndrome. A complete blood test and thyroid function test may be necessary.",
     "What does blood in the stool indicate": "This could be a sign of hemorrhoids, colorectal cancer, or gastrointestinal bleeding. A colonoscopy might be required for proper diagnosis.",
-    "What are the causes of recurring joint pain and stiffness": "These could be symptoms of osteoarthritis, rheumatoid arthritis, or gout. Further evaluation by a rheumatologist is suggested.",,
-    "1": "something"
+    "What are the causes of recurring joint pain and stiffness": "These could be symptoms of osteoarthritis, rheumatoid arthritis, or gout. Further evaluation by a rheumatologist is suggested."
 }
